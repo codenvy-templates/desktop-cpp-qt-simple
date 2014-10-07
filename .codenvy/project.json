@@ -1,1 +1,1 @@
-{"type":"cpp","properties":[{"name":"runner.name","value":["cpp-standalone-default"]},{"name":"runner.env_id","value":["qt4"]}]}
+{"attributes":{"runner.env_id":["qt4"]},"projectTypeId":"cpp","builder":null,"runner":"cpp-standalone-default","defaultBuilderEnvironment":null,"defaultRunnerEnvironment":"qt4","builderEnvironmentConfigurations":{},"runnerEnvironmentConfigurations":{},"description":null}
