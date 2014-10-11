@@ -1,1 +1,1 @@
-{"type":"cpp","attributes":{},"builders":{},"runners":{"default":"cpp-standalone-default","configs":{}}}
+{"type":"cpp","attributes":{},"runners":{"default":"system:/cpp-standalone-default/qt4","configs":{}},"builders":{}}
